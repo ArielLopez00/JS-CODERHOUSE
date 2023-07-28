@@ -1,0 +1,62 @@
+[
+    {
+    "id": "1",
+    "nombre": "Lakers Jersey",
+    "precio": 150,
+    "description": "Men's Los Angeles Lakers LeBron James"
+  },
+  {
+    "id":2,
+    "nombre":"Grizzlies Jersey",
+    "precio":100,
+    "description":"Unisex Memphis Grizzlies Ja Morant Nike"
+  },
+  {
+    "id":3,
+    "nombre":"Hawks Jersey",
+    "precio":100,
+    "description":"Men's Atlanta Hawks Trae Young Fanatics Branded Black"
+  },
+  {
+    "id":4,
+    "nombre":"Spurs Jersey",
+    "precio":125,
+    "description":"Unisex San Antonio Spurs Victor Wembanyama"
+  },
+  {
+    "id":5,
+    "nombre":"Mavs Jersey",
+    "precio":130,
+    "description":"Men's Dallas Mavericks Luka Doncic Jersey"
+  },
+  {
+  "id":  6, 
+  "nombre":"Suns Jersey", 
+  "precio":130, 
+  "description":"Men's Phoenix Suns Kevin Durant Jersey"
+  },
+  {
+    "id":7,
+    "nombre":"Miami Heat Jersey",
+    "precio":110,
+    "description":"Unisex Miami Heat Jimmy Butler Finals"
+  },
+  {
+    "id":8,
+    "nombre":"GSW Jersey",
+    "precio":135,
+    "description":"Men's Golden State Warriors Stephen Curry"
+  },
+  {
+    "id":9,
+    "nombre":"Celtics Jersey",
+    "precio":120,
+    "description":"Men's Boston Celtics Jayson Tatum Jersey"
+  },
+  {
+    "id":10,
+    "nombre":"Sixers Jersey",
+    "precio":99,
+    "description":"Unisex Philadelphia 76ers Joel Embiid"
+  }
+]
